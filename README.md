@@ -1,5 +1,5 @@
 # GamblingLife 
-
+tungtungtungtungtsahurrrr
 ## Project Context
 The "GamblingLife" project is a C implementation of an interactive and immersive BlackJack game. The goal was to create a game that integrates classic BlackJack mechanics while adding advanced features such as statistics management and an interactive interface using Raylib.
 
